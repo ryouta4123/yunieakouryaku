@@ -1,0 +1,328 @@
+ *{ box-sizing: border-box;
+}
+header{
+  background-color: rgb(78, 78, 78);
+  height:50px;
+}
+header h1{
+  margin-left: 50px;
+  color: rgb(1, 163, 163);
+}
+
+.mein{
+  margin-top: 70px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+.mein1{
+  background-image: url("../新しいフォルダー/EV5wh4OU0AAsUki.jpg");
+  height: 350px;
+  background-size: cover;
+}
+.midasi{
+  padding-top: 245px;
+  padding-left: 10px;
+}
+.midasi img{
+  height:100px;
+  float: left;
+  margin-right: 20px;
+  opacity: 0.9;
+}
+.midasi h1{
+  float: left;
+  margin-top: 45px;
+opacity: 0.75;
+}
+.mein2 p{
+float:left;
+box-sizing: border-box;
+width:16.66%;
+padding-left:100px;
+border:1px solid rgb(153, 152, 152);
+margin-top: 0px;
+height:40px;
+padding-top:8px;
+background-color: darkgray;
+color: black;
+}
+.mein2 p:hover{
+  background-color:rgb(85, 84, 84) ;
+}
+
+.mein3{
+  float:left;
+  width: 20%;
+}
+
+.mein3 h1{
+  background-color: rgb(120, 197, 197);
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.mein3 h2{
+  padding-left: 50px;
+  background-color: rgb(201, 197, 197);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+}
+
+.saisinnzyouhou{
+  border:0.5px solid  rgba(97, 97, 97, 0.4) ;
+  padding-top: 0px;
+}
+
+.saisinnzyouhou p{
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin:0px;
+  border-bottom: 1px solid rgba(97, 97, 97, 0.2);
+  height:70px;
+  color: black;
+}
+
+.mein4{
+  float:left;
+  width: 60%;
+}
+
+.saito{
+  border:1px solid rgba(0, 0, 0, 0.2) ;
+  height:6000px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: rgb(219, 219, 219);
+}
+
+.saito img{
+  width:100%;
+}
+
+.kyoku0{
+margin-top: 50px;
+height:600px;
+}
+
+.new1{
+ margin-top: 50px;
+ height:520px;
+}
+
+.new{
+  width:20%;
+  float:left;
+}
+
+.kyoku100{
+  border:1px solid rgba(0, 0, 0, 0.2);
+  padding:10px;
+  height:70px;
+}
+
+.new img{
+  width:50px;
+}
+
+.kyoku200{
+  float:left;
+  width:50%;
+}
+
+.kyoku200 p{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:70px;
+  font-size:20px;
+  padding-top: 17px;
+  padding-left:10px;
+  font-weight: 1000;
+}
+
+.kyoku200 h3{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:40px;
+  font-size:1.5em;
+  padding:4px 5px 5px 10px;
+}
+
+.kyoku300{
+  width:15%;
+  float:left;
+}
+
+.kyoku300 h4{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:40px;
+  font-size:1.5em;
+  padding:4px 5px 5px 7px;
+}
+
+.kyoku300 p{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:70px;
+  padding-top:14px;
+  padding-left:25px;
+  font-weight: 1000;
+  font-size:30px; 
+}
+
+.kyoku10{
+  margin-top: 50px;
+  height:810px;
+}
+
+.kyoku11{
+  margin-top: 50px;
+  height:810px; 
+}
+.kyoku12{
+  margin-top: 50px;
+  height:740px;
+}
+.kyoku13{
+  margin-top:50px;
+  height:810px;
+}
+.kyoku14{
+  margin-top:50px;
+  height:880px;
+}
+
+
+.saito h2{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin:0px;
+  height:40px;
+  padding:4px 5px 5px 10px;
+}
+
+.kyoku{
+  width:20%;
+  float:left;
+}
+
+.kyoku1{
+  border:1px solid rgba(0, 0, 0, 0.2);
+  padding:10px;
+  height:70px;
+}
+
+.kyoku1 img{
+  width:50px;
+}
+
+.kyoku2{
+  float:left;
+  width:50%;
+}
+
+.kyoku2 h3{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:40px;
+  font-size:1.5em;
+  padding:4px 5px 5px 10px;
+}
+
+.kyoku2 p{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:70px;
+  font-size:20px;
+  padding-top: 17px;
+  padding-left:10px;
+  font-weight: 1000;
+}
+
+.kyoku3{
+  float:left;
+  width:15%;
+}
+
+.kyoku3 h4{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:40px;
+  font-size:1.5em;
+  padding:4px 5px 5px 7px;
+}
+
+
+.kyoku3 p{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:70px;
+  padding-top:14px;
+  padding-left:25px;
+  font-weight: 1000;
+  font-size:30px;
+}
+
+.kyoku4{
+  float:left;
+  width:15%;
+}
+
+.kyoku4 h5{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  height:40px;
+  font-size:1.5em;
+  padding:4px 5px 5px 7px;
+}
+
+.kyoku4 p{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin:0px;
+  height:70px;
+  font-size:30px;
+  font-weight: 1000px;
+  padding:14px 0px 0px 10px
+}
+.aka{
+  color:red;
+}
+
+.ao{
+  color:blue;
+}
+
+.midori{
+  color:green
+}
+
+.ki{
+  color:yellow;
+}
+
+.murasaki{
+  color:purple;
+}
+
+.mein5{
+  float:left;
+  width: 20%;
+}
+
+.mein5 h1{
+  margin:0px;
+  background-color: rgb(149, 102, 196);
+  text-align: center;
+}
+
+.mein5 p{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0px;
+  padding:25px 10px 30px 20px;
+  color:black;
+}
